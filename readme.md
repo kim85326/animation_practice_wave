@@ -1,4 +1,4 @@
-# css animation 練習 wave
+# 練習 css 的 animation - wave
 看了某個教學影片之後<br>
 發現波浪居然是利用**正方形+圓角+旋轉**做出來的！！！<br>
 非常震驚所以決定自己也來做一個 XD
